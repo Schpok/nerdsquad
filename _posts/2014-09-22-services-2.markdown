@@ -1,0 +1,8 @@
+---
+layout: default
+img: magnet.jpg
+category: Services
+title: Revolutionary concept of magnets
+description: |
+---
+  Simply adapt your tower to any situation using customized faces to "stick" to the tower using powerful magnets
